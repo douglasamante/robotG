@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  2 17:26:20 2018
-
-@author: sales
+@author: Douglas Amante
 """
 
 import random
